@@ -110,3 +110,10 @@ ENV/
 # data
 data/faces/
 data/news_data/
+
+*.tsv
+*.dot
+/jupyter_russian/homeworks/tree2.png
+/jupyter_russian/homeworks/top10_tags.tsv
+/jupyter_russian/homeworks/stackoverflow_sample_125k.tsv
+/jupyter_russian/homeworks/tree.png
